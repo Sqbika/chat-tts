@@ -36,3 +36,6 @@ pnpm-workspace.yaml
 
 uv.lock
 attachments/*
+
+#Nix related
+.direnv/
